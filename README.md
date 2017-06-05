@@ -1,8 +1,8 @@
-# Cronometer in Java
+# Chronometer in Java
 
 
-This project implements a cronometer in java.
-We use java.util.Timer and java.util.TimerTask to do the task.
+This project implements a chronometer in java.
+We use *java.util.Timer* and *java.util.TimerTask* to do the task.
 This java program can perform a count up or a count down.
 
 To compile
