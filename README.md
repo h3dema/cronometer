@@ -17,5 +17,10 @@ To run
 java Cronometro
 ```
 
+[](cronometro.png)
+
+
+## Other resources
 
 [You can see more about this class in my blog (in portuguese)](http://h3dema.blogspot.com.br/2013/04/cronometro-em-java.html)
+[There is also an YouTube video explaining the class](https://youtu.be/Vb-Qbz8dT0E)
