@@ -17,7 +17,7 @@ To run
 java Cronometro
 ```
 
-[](cronometro.png)
+![](cronometro.png)
 
 
 ## Other resources
