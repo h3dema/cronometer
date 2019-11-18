@@ -3,11 +3,18 @@
 
 This project implements a chronometer in java.
 We use *java.util.Timer* and *java.util.TimerTask* to do the task.
-This java program can perform a count up or a count down.
+This java program can perform a count up or a count down (but you have to change the code to count down).
+
+We have two implementations;
+
+* chronometer1: simple implementation that resets the clock every time it is stopped
+* chronometer2: enhanced version that allows to continue the count
+
 
 To compile
 
 ```bash
+cd chronometer1
 javac Cronometro.java
 ```
 
