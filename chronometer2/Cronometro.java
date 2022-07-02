@@ -81,6 +81,7 @@ class Cronometro{
           btReset.setText("Reset");  // when running, if you click btReset, it only stops the clock
         } else {
           // if the clock is stopped, then this button resets the chronometer
+          contagemTempo.setText(String.format("00:00:00"));
           tm.cancel();
           running = false;
 
